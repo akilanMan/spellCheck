@@ -1,6 +1,3 @@
-Akilan Manivannan - am3164
-Aakash Dhruv - ajd359
-
 In this project, we are tasked to make our own version of a Spellchecker which flags incorrect words with a given dictionary (dict.txt) and test file (test.txt). This project involves the use of POSIX functions to traverse through the dictionary and text files to produce results. The memory and data is managed in a static array with a fixed buffer. Each item in the array is the string of characters which make up the words.
 
 MAKEFILE
